@@ -9,3 +9,6 @@ Sam Manger
 License
 -------
 yaddayadda
+
+Installation
+-----------
